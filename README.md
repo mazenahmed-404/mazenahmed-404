@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello, I'm a Computing and Data Science Student 👋
 
-<!--
-**mazenahmed-404/mazenahmed-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently developing my programming and software engineering skills, with a particular focus on Python development and automation.
 
-Here are some ideas to get you started:
+### 🎯 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python programming and problem-solving
+- Software development fundamentals
+- API integration and data processing
+- Business process automation
+- Building practical applications independently
+
+### 🛠️ Technologies I'm Learning
+
+- Python
+- Git and GitHub
+- SQL
+- REST APIs
+- Web scraping and data processing
+
+### 📂 Projects
+
+I'm building and documenting practical projects as part of my programming journey. My repositories reflect my learning progress, implementation experience, and continuous improvement.
+
+### 📈 Learning Philosophy
+
+I believe in learning by building, solving problems independently, understanding the code I write, and continuously improving my engineering skills.
+
